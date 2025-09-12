@@ -1,12 +1,18 @@
 # Miro Hollanti Esittely
 
----
-
 ## Tietoa minusta
 
 - **Ikä:** 25
 - **Kotikunta:** Kannus
 - **Koulutus:** Ylioppilas
+
+---
+
+```
+
+```
+
+---
 
 ### Harrastukset
 
@@ -16,4 +22,8 @@
 | Videopelit | 2015 | 
 | Penkkiurheilu | 2023 | 
 | Lukeminen | 2024 | 
-| Salitreeni | 2025 | 
+| Punttisali | 2025 | 
+
+---
+
+[Profiili]https://github.com/MiroHollanti
