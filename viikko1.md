@@ -1,16 +1,18 @@
 # Miro Hollanti Esittely
 
-## Tietoa minusta
-
 - **Ikä:** 25
 - **Kotikunta:** Kannus
 - **Koulutus:** Ylioppilas
 
 ---
 
-```
+## Tietoa minusta
 
-```
+Olen 25 vuotias ICT-opiskelija Centria-ammattikorkeakoulussa Kokkolassa. Aiemmin taustalla Lukio, keskeytyneet sosionomin opinnot, sekä puolitoista vuotta työkokemusta postinjakajana. 
+Vahvuuksiani ovat:
+1. *Yhteistyökykyisyys* 
+2. *Tunnollisuus* 
+3. *Omatoimisuus* 
 
 ---
 
@@ -26,4 +28,9 @@
 
 ---
 
-[Profiili]https://github.com/MiroHollanti
+[Profiili](https://github.com/MiroHollanti)
+
+```
+> The owls are not what they seem
+```
+!Screenshot 2025-07-12 200307.png
