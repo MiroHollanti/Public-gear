@@ -1,5 +1,7 @@
 # Miro Hollanti Esittely
 
+[Github -Profiili](https://github.com/MiroHollanti)
+
 - **Ikä:** 25
 - **Kotikunta:** Kannus
 - **Koulutus:** Ylioppilas
@@ -28,9 +30,7 @@ Vahvuuksiani ovat:
 
 ---
 
-[Profiili](https://github.com/MiroHollanti)
-
 ```
 > The owls are not what they seem
 ```
-!Screenshot222
+![Image]("C:\Users\miroh\CentriaCloud\OneDrive - Centria ammattikorkeakoulu Oy\Public-gear\Screenshot222.png")
