@@ -33,4 +33,11 @@ Vahvuuksiani ovat:
 ```
 > The owls are not what they seem
 ```
-![Image]("C:\Users\miroh\CentriaCloud\OneDrive - Centria ammattikorkeakoulu Oy\Public-gear\Screenshot222.png")
+![alt text](Screenshot222.png "Title")
+
+
+
+
+
+
+
